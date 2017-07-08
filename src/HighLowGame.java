@@ -40,16 +40,15 @@ public class HighLowGame {
 					System.exit(0);
 				}
 	          }
-		if(Loss){
-		JOptionPane.showMessageDialog(null, "Sorry, you lost, but the number was " + random);
-		}
-		
-				
-				
-				// 10. tell them it's too low
-	}
+		     if(Loss){
+		     JOptionPane.showMessageDialog(null, "Sorry, you lost, but the number was " + random);
+		     }
+	       }
+        }
+		// 10. tell them it's too low
+	      
 		// 12. tell them they lose
-	}
+	
  
 
  
