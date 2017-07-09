@@ -18,5 +18,6 @@ public class ChuckleClicker {
 	 JButton button2 = new JButton();
 	 panel.add(button2);
 	 button2.setText("Or click here");
+	 
   }
 }
